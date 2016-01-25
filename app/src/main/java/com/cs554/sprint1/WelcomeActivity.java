@@ -13,6 +13,8 @@ import android.widget.Button;
 import android.widget.RadioButton;
 import android.widget.Toast;
 
+// Changed project name to cs554.sprint1
+
 public class WelcomeActivity extends AppCompatActivity {
 
     int num_players, board_size = 0;
